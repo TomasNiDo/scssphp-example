@@ -1,0 +1,15 @@
+body {
+  background-color: #2ecc71;
+}
+body .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 700px;
+}
+body .container h1 {
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 46px;
+  font-weight: 300;
+}

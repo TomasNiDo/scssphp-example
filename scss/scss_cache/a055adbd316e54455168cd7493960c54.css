@@ -1,0 +1,21 @@
+/* compiled by scssphp v0.6.7 on Tue, 25 Jul 2017 00:48:06 +0000 (0.0052s) */
+
+body {
+  background-color: #1abc9c;
+}
+body p {
+  color: #fff;
+}
+.navigation ul {
+  line-height: 20px;
+  color: #0275d8;
+}
+.navigation ul a {
+  color: #0275d8;
+}
+.footer .copyright {
+  color: #5cb85c;
+}
+.footer-menu {
+  color: #0275d8;
+}

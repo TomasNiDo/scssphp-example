@@ -1,0 +1,20 @@
+@import "mixins";
+@import "variables";
+
+body {
+	background-color: $backgroundColor;
+
+	.container {
+		@include flex-display;
+	    height: 700px;
+
+	    h1 {
+	    	color: $white;
+	    	font: {
+	    		family: Arial, $font;
+	    		size: 46px;
+	    		weight: $light;
+	    	}
+	    }
+	}
+}
