@@ -26,7 +26,7 @@ $scss->setVariables(array(
     'infoColor'		=> $infoColor,
     'dangerColor'	=> $dangerColor,
     'warningColor'	=> $warningColor,
-    'font'			=> 'sans-serif',
+    'font'	        => 'sans-serif',
 ));
 
 $server = new Server('scss', null, $scss);
